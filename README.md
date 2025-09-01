@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I’m Alex
 
-<!--
-**alexey-luhinin/alexey-luhinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **QA Automation Engineer** with 3 years of experience building robust automation frameworks and ensuring product quality.  
+I’ve also worked as a **Team Lead**, managing a small team, planning sprints, mentoring engineers, and ensuring smooth delivery.
 
-Here are some ideas to get you started:
+Now, I’m transitioning into **Data Science and Machine Learning**, driven by my passion for data, analytics, and building intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 What I bring
+- Strong background in **QA Automation** (Python, Selenium, Pytest, CI/CD integration).
+- Hands-on **team leadership**: sprint planning, retrospectives, workload balancing, and mentoring.
+- Experience in **API and UI testing**, building maintainable frameworks using SOLID and Page Object principles.
+- Currently deepening my skills in **Data Science**:
+  - Exploratory Data Analysis (EDA)  
+  - Feature Engineering & Selection  
+  - Machine Learning Models (classification, regression, clustering)  
+  - Python stack: Pandas, NumPy, Matplotlib, Scikit-learn  
+
+---
+
+## 🌱 Currently Learning
+- Advanced Machine Learning techniques and model evaluation
+- Deep Learning foundations (Neural Networks with Keras/PyTorch)
+- Applied data science workflows with real-world datasets
+
+---
+
+## 📫 How to reach me
+- Telegram: [@barrrrygold](https://t.me/barrrrygold)  
+- GitHub: [github.com/alexey-luhinin](https://github.com/alexey-luhinin)
+
+---
