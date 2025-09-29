@@ -27,7 +27,6 @@ Now, I’m transitioning into **Data Science and Machine Learning**, driven by m
 ---
 
 ## 📫 How to reach me
-- Telegram: [@barrrrygold](https://t.me/barrrrygold)  
 - GitHub: [github.com/alexey-luhinin](https://github.com/alexey-luhinin)
 
 ---
