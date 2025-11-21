@@ -27,6 +27,6 @@ Now, I’m transitioning into **Data Science and Machine Learning**, driven by m
 ---
 
 ## 📫 How to reach me
-- GitHub: [github.com/alexey-luhinin](https://github.com/alexey-luhinin)
+- [Write me on WhatsApp](https://wa.me/+380992918895)
 
 ---
