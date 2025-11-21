@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Alex
 
-I’m a **QA Automation Engineer** with 3 years of experience building robust automation frameworks and ensuring product quality.  
+I’m a **QA Automation Engineer** with 5 years of experience building robust automation frameworks and ensuring product quality.  
 I’ve also worked as a **Team Lead**, managing a small team, planning sprints, mentoring engineers, and ensuring smooth delivery.
 
 Now, I’m transitioning into **Data Science and Machine Learning**, driven by my passion for data, analytics, and building intelligent systems.
